@@ -156,3 +156,4 @@ Try transforming X using scikit-learn _and_ fitting a scikit-learn linear regres
 ## Summary
 
 In this lab, you practiced your knowledge of categorical variables on the Ames Housing dataset! Specifically, you practiced distinguishing numeric and categorical data. You then created dummy variables using one hot encoding in order to build a multiple regression model.
+# My Project
